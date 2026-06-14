@@ -40,4 +40,8 @@ Developed an HR Attrition Analytics Dashboard using Power BI, Power Query, and D
 7. Dashboard Development
 8. DAX
 9. Power Query
-10. Business Intelligence Reporting
+10. Business Intelligence Reporting.
+
+## Dashboard Preview
+
+![IBM HR Attrition Dashboard](HR(IBM)_Attrtion%20Analysis.PNG)
