@@ -24,13 +24,9 @@ Developed an HR Attrition Analytics Dashboard using Power BI, Power Query, and D
 ## Key Insights
 
 1. The overall attrition rate was 16.1%, with 237 employees leaving out of a total workforce of 1,470 employees.
-
 2. Attrition varied across departments, job roles, and age groups, helping identify areas with higher employee turnover.
-
 3. Salary levels and employee tenure showed noticeable differences in attrition patterns across the workforce.
-
 4. Workforce demographics and employee experience data provided useful insights into employee retention trends.
-
 5. Interactive reports enabled detailed analysis of attrition drivers and workforce metrics.
 
 ## Skills Demonstrated
